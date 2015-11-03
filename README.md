@@ -11,7 +11,7 @@ In-app console
 
 ## Licensing
 
-samurai-native is licensed under the MIT License.
+samurai-service-console is licensed under the MIT License.
 
 ## Contributors
 
